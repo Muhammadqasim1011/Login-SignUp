@@ -28,8 +28,8 @@ Make sure you have the following installed on your system:
 Clone this repository to your local machine using:
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-directory>
+git clone <https://github.com/Muhammadqasim1011/Login-SignUp.git>
+cd <Login-SignUp>
 ```
 
 ### 2. Install Firebase
