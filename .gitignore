@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+
+# Ignore build output
+dist/
+
+# Ignore package files
+package.json
+package-lock.json
+
+# Ignore node_modules
+node_modules/
